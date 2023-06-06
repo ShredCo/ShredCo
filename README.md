@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Luke
-- 👀 I’m interested in VR Dev
-- 🌱 I’m currently learning Unity C#
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me via DM
+- 👀 I’m interested in Game Development
+- 🌱 At the moment I'm developing Games on Unity 
+- 💞️ I’m looking to build games for the world to enjoy
