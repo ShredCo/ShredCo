@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luke
-- 👀 I’m interested in Game Development
-- 🌱 At the moment I'm developing Games on Unity 
-- 💞️ I’m looking to build games for the world to enjoy
+- 👀 I’m interested in basic Development
+- 🌱 At the moment I'm developing basic stuff.
+- 💞️ I’m looking to build tools for the world to enjoy
